@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/bomb.dir/bomb.c.o -o bomb 
